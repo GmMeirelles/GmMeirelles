@@ -1,15 +1,26 @@
-<h1 align="center">Olá 👋, Eu sou o Gabriel Meirelles</h1>
-<h3 align="center">Estou aqui por diversão e para aprender</h3>
+# Olá! 👋 Eu sou o Gabriel Meirelles
 
-- 🌱 Atualmente estou aprendendo sobre **Python**
+Bem-vindo ao meu perfil do GitHub! Sou estudante de **Ciência da Computação** com foco em **Inteligência Artificial**, **Análise de Dados** e **Desenvolvimento de Software**. Tenho paixão por explorar novas tecnologias e aplicá-las em projetos práticos.
 
-- 💬 Pergunte-me sobre **Python**
+## Sobre mim
 
-- 📫 Como me encontrar **gabriel.meirellessilva@hotmail.com**
+- 🎮 Atualmente, gosto de **jogar**, **ler** e **programar**.
+- 📚 Estudando sobre **IA** e sempre buscando melhorar minhas habilidades em **programação**.
+- 💻 Experiência com **Python**, **Flask** e manipulação de dados com **pandas** e **numpy**.
+- 🚀 Sempre em busca de novos desafios e oportunidades para aprender.
+- 🌍 Localização: **São Paulo, Brasil**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Habilidades
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Linguagens de Programação**: Python, JavaScript
+- **Frameworks e Ferramentas**: Flask, Pandas, NumPy, Git
+- **Banco de Dados**: SQL, NoSQL
+- **Desenvolvimento Web**: HTML, CSS, Flask
+- **Outros**: REST API, Análise de Dados, Ciência de Dados
+
+## Vamos Conectar!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielmei/)
+- 📧 [Email](gabriel.meirellessilva@hotmail.com)
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!
